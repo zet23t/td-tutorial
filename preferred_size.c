@@ -39,8 +39,8 @@ int IsPaused()
 #else
 void GetPreferredSize(int *screenWidth, int *screenHeight)
 {
-  *screenWidth = 600;
-  *screenHeight = 240;
+  *screenWidth = 1920;
+  *screenHeight = 1080;
 }
 int IsPaused()
 {
